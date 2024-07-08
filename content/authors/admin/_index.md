@@ -3,7 +3,7 @@
 title: 王江波
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: WANG Jiangbo
 
 # Full name (for SEO)
 first_name: WANG
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in wireless communication
+role: PhD Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
