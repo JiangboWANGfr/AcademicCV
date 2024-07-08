@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research encompasses several interconnected areas within the broader domains of engineering and computer science. By integrating principles from these diverse fields, I aim to develop sophisticated solutions that push the boundaries of current technology. Key themes in my work include the optimization of wireless networks, the development of intelligent and autonomous systems, and the application of deep learning for enhanced data analysis and decision-making.
+        A significant portion of my research is dedicated to improving the efficiency and sustainability of wireless communication systems. This involves innovative approaches to network modeling and optimization, with a particular focus on the latest advancements in 5G technology. I strive to enhance network performance while reducing energy consumption, contributing to the development of greener communication infrastructures.
+        In the realm of intelligent systems, my work aims to create autonomous solutions capable of operating in dynamic and unpredictable environments. This involves the design and implementation of advanced algorithms for decision-making and control, which are crucial for applications in robotics and the Internet of Things (IoT). By enhancing the capabilities of these systems, I seek to pave the way for more adaptive and resilient technologies.
+        Deep learning is another cornerstone of my research. I focus on developing and refining models that can perform complex data analysis, with applications ranging from anomaly detection to predictive maintenance. By improving both the accuracy and interpretability of these models, I aim to provide robust solutions that can be effectively utilized across various industries.
     design:
       columns: '1'
   - block: collection
