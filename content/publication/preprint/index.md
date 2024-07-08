@@ -1,7 +1,8 @@
 ---
 title: "An example preprint / working paper"
 authors:
-- admin
+- Jiangbo WANG
+- Shanshan WANG
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
