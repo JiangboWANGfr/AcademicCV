@@ -3,7 +3,7 @@
 title: 王江波
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Jiang Bo
 
 # Full name (for SEO)
 first_name: WANG
