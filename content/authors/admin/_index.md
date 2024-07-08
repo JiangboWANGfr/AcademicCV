@@ -3,7 +3,7 @@
 title: 王江波
 
 # Name pronunciation (optional)
-name_pronunciation: WANG Jiangbo
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: WANG
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student 
+role: PhD Candidate in wireless communication
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: jiangbo.wang@ensea.fr
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
 #   - icon: brands/x
 #     url: https://twitter.com/GetResearchDev
 #   - icon: brands/instagram
 #     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/JiangboWANGfr
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jiangbo-wang-a98a5b297/
+    url: https://www.linkedin.com/
 #   - icon: academicons/google-scholar
 #     url: https://scholar.google.com/
 #   - icon: academicons/orcid
@@ -52,19 +52,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD in Information Theory
-    institution: IP Paris
-    date_start: 2024-09-01
-    date_end: Now 
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Engineer in Electronics
-    institution: ENSEA
-    date_start: 2022-09-01
-    date_end: 2024-10-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bachelor in Automation
-    institution: Beijing Institute of Technology
-    date_start: 2018-09-01
-    date_end: 2022-07-01
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
       
