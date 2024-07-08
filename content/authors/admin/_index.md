@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: PhD in Information Theory
-    institution: IP Paris
+    institution: Institut Polytechnique de Paris
     date_start: 2024-09-01
     date_end: 2027-08-31
     summary: |
@@ -60,6 +60,17 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
+  - area: Master in Intelligent ans Communication Systems
+    institution: CY Cergy Paris Université
+    date_start: 2023-09-01
+    date_end: 2024-10-01
+    summary: |
+      GPA: 3.4/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Engineer in Electronics
     institution: ENSEA
     date_start: 2022-09-01
@@ -182,4 +193,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my personal website! I am Jiangbo Wang, a passionate and dedicated engineer specializing in intelligent and communicating systems. With a strong academic background and diverse professional experiences, I strive to contribute to the advancements in technology and innovation.
